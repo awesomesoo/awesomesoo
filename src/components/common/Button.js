@@ -1,4 +1,3 @@
-import React from "react";
 import styled from "styled-components";
 import palette from "../../assets/styles/palette";
 
@@ -19,7 +18,7 @@ const StyledButton = styled.button`
 `;
 
 const Button = (props) => {
-  <StyledButton {...props} />;
+  return <StyledButton {...props} />;
 };
 
 export default Button;
