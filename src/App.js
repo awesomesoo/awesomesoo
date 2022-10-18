@@ -1,8 +1,12 @@
 import React from "react";
-import Navigation from "./components/Navigation";
+import "./app.css";
+import GlobalStyle from "./assets/styles/GlobalStyle";
+import Navigation from "./components/base/Navigation";
+
 function App() {
   return (
     <>
+      <GlobalStyle />
       <Navigation />
     </>
   );

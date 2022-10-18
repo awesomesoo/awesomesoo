@@ -1,12 +1,12 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
-import Home from "../pages/Home";
-import Login from "../pages/Login";
-import Register from "../pages/Register";
-import NotFound from "../pages/NotFound";
-import PostList from "../pages/post/PostList";
-import PostItem from "../pages/post/PostItem";
-import PostWrite from "../pages/post/PostWrite";
+import Home from "../../pages/Home";
+import Login from "../../pages/Login";
+import Register from "../../pages/Register";
+import NotFound from "../../pages/NotFound";
+import PostList from "../../pages/post/PostList";
+import PostItem from "../../pages/post/PostItem";
+import PostWrite from "../../pages/post/PostWrite";
 
 const Navigation = () => {
   return (
