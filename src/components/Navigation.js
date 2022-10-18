@@ -1,5 +1,5 @@
 import React from "react";
-import { Route } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import Home from "../pages/Home";
 import Login from "../pages/Login";
 import Register from "../pages/Register";
@@ -8,7 +8,7 @@ import PostList from "../pages/post/PostList";
 import PostItem from "../pages/post/PostItem";
 import PostWrite from "../pages/post/PostWrite";
 
-const Routes = () => {
+const Navigation = () => {
   return (
     <Routes>
       <Route path="/" element={<Home />}></Route>
@@ -29,4 +29,4 @@ const Routes = () => {
   );
 };
 
-export default Routes;
+export default Navigation;

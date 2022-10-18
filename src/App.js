@@ -1,11 +1,8 @@
-import Routes from "./components/Routes";
+import React from "react";
+import Navigation from "./components/Navigation";
 
 function App() {
-  return (
-    <>
-      <Routes />
-    </>
-  );
+  return <Navigation />;
 }
 
 export default App;
