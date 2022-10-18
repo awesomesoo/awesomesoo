@@ -5,8 +5,7 @@ const PostList = () => {
   return (
     <div>
       PostList
-      <Button>버ㅇ튼</Button>
-      ㅇㅇ
+      <Button>버튼</Button>
     </div>
   );
 };
