@@ -156,3 +156,5 @@ const palette = {
     "#d9480f",
   ],
 };
+
+export default palette;
