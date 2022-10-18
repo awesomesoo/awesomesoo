@@ -15,6 +15,8 @@ const GlobalStyle = createGlobalStyle`
         text-decoration:none;
         color: ${palette.gray[9]};
     }
-
+    input{
+        outline:none;
+    }
 `;
 export default GlobalStyle;
