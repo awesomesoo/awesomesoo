@@ -24,13 +24,14 @@ const WhiteBox = styled.div`
     padding-bottom: 2rem;
     text-align: center;
     font-family: "Noto Sans B";
-    letter-spacing: 2px;
+    letter-spacing: -1px;
+    font-size: 1.5rem;
   }
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.025);
   padding: 2rem;
   width: 360px;
   background: white;
-  border-radius: 2px;
+  border-radius: 1.5rem;
 `;
 
 const AuthTemplate = ({ children }) => {

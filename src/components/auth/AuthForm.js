@@ -11,6 +11,7 @@ const AuthFormBlock = styled.div`
   h3 {
     color: ${palette.gray[8]};
     margin-bottom: 1rem;
+    font-family: "Noto Sans B";
   }
 `;
 
@@ -40,6 +41,9 @@ const Footer = styled.div`
     }
   }
 `;
+const ButtonWidthMarginTop = styled(Button)`
+  margin-top: 1rem;
+`;
 
 const AuthForm = () => {
   return (
@@ -57,7 +61,9 @@ const AuthForm = () => {
           placeholder="비밀번호"
           type="password"
         />
-        <Button>로그인</Button>
+        <ButtonWidthMarginTop cyan fullWidth>
+          로그인
+        </ButtonWidthMarginTop>
       </form>
       <Footer>
         <Link>회원가입</Link>
