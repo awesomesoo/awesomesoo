@@ -26,7 +26,7 @@ export const changeField = createAction(
 );
 
 // register / login
-export const initalizeFrom = createAction(INITIALIZE_FORM, (form) => form);
+export const initializeFrom = createAction(INITIALIZE_FORM, (form) => form);
 
 export const register = createAction(REGISTER, ({ username, password }) => ({
   username,
@@ -80,7 +80,7 @@ const auth = handleActions(
     // 회원가입 실패
     [REGISTER_FAILURE]: (state, { payload: error }) => ({
       ...state,
-      authError: null,
+      authError: error,
     }),
     // 로그인 성공
     [LOGIN_SUCCESS]: (state, { payload: auth }) => ({
@@ -91,7 +91,7 @@ const auth = handleActions(
     // 로그인 실패
     [LOGIN_FAILURE]: (state, { payload: error }) => ({
       ...state,
-      authError: null,
+      authError: error,
     }),
   },
   initialState
