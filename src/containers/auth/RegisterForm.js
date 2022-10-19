@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { changeField, initializeFrom, register } from '../../modules/auth';
+import { changeField, initializeForm, register } from '../../modules/auth';
 import AuthForm from '../../components/auth/AuthForm';
 
 const RegisterForm = () => {
@@ -37,7 +37,7 @@ const RegisterForm = () => {
 
   // 컴포넌트가 처음 렌더링될 때 form을 초기화 함
   useEffect(() => {
-    dispatch(initializeFrom('register'));
+    dispatch(initializeForm('register'));
   }, [dispatch]);
 
   // 회원가입 성공/실패 처리

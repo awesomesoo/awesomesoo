@@ -12,21 +12,21 @@ const INITIALIZE_FORM = 'auth/INITIALIZE_FORM';
 
 const [REGISTER, REGISTER_SUCCESS, REGISTER_FAILURE] =
   createRequestActionType('auth/REGISTER');
+
 const [LOGIN, LOGIN_SUCCESS, LOGIN_FAILURE] =
   createRequestActionType('auth/LOGIN');
 
 export const changeField = createAction(
   CHANGE_FIELD,
-
   ({ form, key, value }) => ({
-    form, // register, login
+    form, // register , login
     key, // username, password, passwordConfirm
     value, // 실제 바꾸려는 값
   })
 );
 
 // register / login
-export const initializeFrom = createAction(INITIALIZE_FORM, (form) => form);
+export const initializeForm = createAction(INITIALIZE_FORM, (form) => form);
 
 export const register = createAction(REGISTER, ({ username, password }) => ({
   username,
@@ -40,7 +40,7 @@ export const login = createAction(LOGIN, ({ username, password }) => ({
 
 // 사가 생성
 const registerSaga = createRequestSaga(REGISTER, authAPI.register);
-const loginSaga = createRequestSaga(LOGIN, authAPI.register);
+const loginSaga = createRequestSaga(LOGIN, authAPI.login);
 export function* authSaga() {
   yield takeLatest(REGISTER, registerSaga);
   yield takeLatest(LOGIN, loginSaga);
