@@ -1,7 +1,7 @@
-import React, { useEffect } from "react";
-import { useDispatch, useSelector } from "react-redux";
-import { changeField, initalizeFrom } from "../../modules/auth";
-import AuthForm from "../../components/auth/AuthForm";
+import React, { useEffect } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
+import { changeField, initalizeFrom } from '../../modules/auth';
+import AuthForm from '../../components/auth/AuthForm';
 
 const LoginForm = () => {
   const dispatch = useDispatch();
@@ -14,7 +14,7 @@ const LoginForm = () => {
     const { value, name } = e.target;
     dispatch(
       changeField({
-        form: "login",
+        form: 'login',
         key: name,
         value,
       })
@@ -29,12 +29,12 @@ const LoginForm = () => {
 
   // 컴포넌트가 처음 렌더링될 때 form을 초기화 함
   useEffect(() => {
-    dispatch(initalizeFrom("login"));
+    dispatch(initalizeFrom('login'));
   }, [dispatch]);
 
   return (
     <AuthForm
-      type="login"
+      type='login'
       form={form}
       onChange={onChange}
       onSubmit={onSubmit}

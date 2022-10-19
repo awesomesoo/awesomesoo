@@ -1,7 +1,7 @@
-import React from "react";
-import styled from "styled-components";
-import palette from "../../assets/styles/palette";
-import { Link } from "react-router-dom";
+import React from 'react';
+import styled from 'styled-components';
+import palette from '../../assets/styles/palette';
+import { Link } from 'react-router-dom';
 /*
  *회원가입, 로그인 페이지의 레이아웃을 담당하는 컴포넌트.
  */
@@ -23,7 +23,7 @@ const WhiteBox = styled.div`
     display: block;
     padding-bottom: 2rem;
     text-align: center;
-    font-family: "Noto Sans B";
+    font-family: 'Noto Sans B';
     letter-spacing: -1px;
     font-size: 1.5rem;
   }
@@ -38,8 +38,8 @@ const AuthTemplate = ({ children }) => {
   return (
     <AuthTemplateBlock>
       <WhiteBox>
-        <div className="logo-area">
-          <Link to="/">AWESOME SOO</Link>
+        <div className='logo-area'>
+          <Link to='/'>AWESOME SOO</Link>
         </div>
         {children}
       </WhiteBox>
