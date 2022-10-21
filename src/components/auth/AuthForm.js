@@ -41,7 +41,8 @@ const Footer = styled.div`
     }
   }
 `;
-const ButtonWidthMarginTop = styled(Button)`
+
+const ButtonWithMarginTop = styled(Button)`
   margin-top: 1rem;
 `;
 
@@ -50,7 +51,17 @@ const textMap = {
   register: '회원가입',
 };
 
-const AuthForm = ({ type, form, onChange, onSubmit }) => {
+/**
+ * 에러를 보여줍니다
+ */
+const ErrorMessage = styled.div`
+  color: red;
+  text-align: center;
+  font-size: 0.875rem;
+  margin-top: 1rem;
+`;
+
+const AuthForm = ({ type, form, onChange, onSubmit, error }) => {
   const text = textMap[type];
   return (
     <AuthFormBlock>
@@ -81,9 +92,10 @@ const AuthForm = ({ type, form, onChange, onSubmit }) => {
             value={form.passwordConfirm}
           />
         )}
-        <ButtonWidthMarginTop cyan fullWidth>
+        {error && <ErrorMessage>{error}</ErrorMessage>}
+        <ButtonWithMarginTop cyan fullWidth style={{ marginTop: '1rem' }}>
           {text}
-        </ButtonWidthMarginTop>
+        </ButtonWithMarginTop>
       </form>
       <Footer>
         {type === 'login' ? (

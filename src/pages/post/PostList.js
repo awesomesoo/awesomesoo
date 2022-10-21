@@ -1,13 +1,13 @@
 import React from 'react';
-import Button from '../../components/common/Button';
+import HeaderContainer from '../../containers/common/HeaderContainer';
 
-const PostList = () => {
+const PostListPage = () => {
   return (
-    <div>
-      PostList
-      <Button>버튼</Button>
-    </div>
+    <>
+      <HeaderContainer />
+      <div>안녕하세요.</div>
+    </>
   );
 };
 
-export default PostList;
+export default PostListPage;
