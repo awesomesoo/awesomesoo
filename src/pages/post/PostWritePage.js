@@ -4,7 +4,7 @@ import EditorContainer from '../../containers/write/EditorContainer';
 import TagBoxContainer from '../../containers/write/TagBoxContainer';
 import WriteActionButtonsContainer from '../../containers/write/WriteActionButtonsContainer';
 
-const PostWrite = () => {
+const PostWritePage = () => {
   return (
     <Responsive>
       <EditorContainer />
@@ -14,4 +14,4 @@ const PostWrite = () => {
   );
 };
 
-export default PostWrite;
+export default PostWritePage;

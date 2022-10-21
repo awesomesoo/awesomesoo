@@ -4,9 +4,9 @@ import Home from '../../pages/Home';
 import Login from '../../pages/Login';
 import Register from '../../pages/Register';
 import NotFound from '../../pages/NotFound';
-import PostList from '../../pages/post/PostList';
-import PostItem from '../../pages/post/PostItem';
-import PostWrite from '../../pages/post/PostWrite';
+import PostList from '../../pages/post/PostListPage';
+import PostItem from '../../pages/post/PostItemPage';
+import PostWrite from '../../pages/post/PostWritePage';
 
 const Navigation = () => {
   return (

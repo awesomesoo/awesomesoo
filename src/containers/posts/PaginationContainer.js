@@ -1,10 +1,11 @@
+import { useLocation } from 'react-router-dom';
 import React from 'react';
-import Pagination from '../../components/posts/Pagination';
 import { useSelector } from 'react-redux';
-import { withRouter } from 'react-router-dom';
+import Pagination from '../../components/posts/Pagination';
 import qs from 'qs';
 
-const PaginationContainer = ({ location }) => {
+const PaginationContainer = () => {
+  const location = useLocation();
   const { lastPage, posts, loading } = useSelector(({ posts, loading }) => ({
     lastPage: posts.lastPage,
     posts: posts.posts,
@@ -33,4 +34,4 @@ const PaginationContainer = ({ location }) => {
   );
 };
 
-export default withRouter(PaginationContainer);
+export default PaginationContainer;

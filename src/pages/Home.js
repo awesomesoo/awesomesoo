@@ -1,5 +1,5 @@
 import React from 'react';
-import PostList from './post/PostList';
+import PostList from './post/PostListPage';
 
 const Home = () => {
   return (
