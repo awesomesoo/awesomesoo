@@ -11,7 +11,7 @@ import PostWrite from '../../pages/post/PostWrite';
 const Navigation = () => {
   return (
     <Routes>
-      <Route path='/' element={<Home />}></Route>
+      <Route path='/' element={<Home />} exact></Route>
       <Route path='/login' element={<Login />}></Route>
       <Route path='/register' element={<Register />}></Route>
       <Route path='/postwrite' element={<PostWrite />}></Route>
