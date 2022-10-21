@@ -14,7 +14,6 @@ const Navigation = () => {
       <Route path='/' element={<Home />}></Route>
       <Route path='/login' element={<Login />}></Route>
       <Route path='/register' element={<Register />}></Route>
-      <Route path='/postlist' element={<PostList />}></Route>
       <Route path='/postwrite' element={<PostWrite />}></Route>
       <Route path='/404' element={<NotFound />}></Route>
       <Route path='/@:username'>
