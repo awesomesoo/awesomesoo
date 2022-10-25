@@ -15,7 +15,7 @@
 <span><a href="https://awesome-soo.tistory.com/"><img src="https://img.shields.io/badge/♡-My Blog-ff3a68.svg?"/></a></span>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomesoo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomesoo&show_icons=true&theme=dracula)
 
 
 
