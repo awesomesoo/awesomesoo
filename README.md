@@ -1,11 +1,5 @@
 ### Hi, I'm Soo 👋
 
-#### My blog
-<p>
-<span><a href="https://awesome-soo.tistory.com/"><img src="https://img.shields.io/badge/♡-My Blog-ff3a68.svg?"/></a></span>
-</p>
-
-
 ### Skills
 <p>
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white&logoWidth=18"/></span>
@@ -16,8 +10,14 @@
 <span><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white&logoWidth=18"/></span>
 </p>
 
+#### My blog
+<p>
+<span><a href="https://awesome-soo.tistory.com/"><img src="https://img.shields.io/badge/♡-My Blog-ff3a68.svg?"/></a></span>
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomesoo&show_icons=true&theme=radical)
+
+
 
 
 <!--
