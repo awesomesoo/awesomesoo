@@ -11,9 +11,11 @@
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white&logoWidth=18"/></span>
 </p>
 
+### My Blog
 <p>
 <span><a href="https://awesome-soo.tistory.com/"><img src="https://img.shields.io/badge/♡-My Blog-ff3a68.svg"/></a></span>
 </p>
+
 
 <!--
 **awesomesoo/awesomesoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
