@@ -29,17 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-<img src="https://img.shields.io/badge/test-React-61DAFB?logo=React&logoColor=white"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
-
-  <img src="https://img.shields.io/badge/🔥-Blazing%20Fast-red.svg"/>
-  <img src="https://img.shields.io/badge/😿-For Humans-blue.svg"/>
-  <img src="https://img.shields.io/badge/🏢-Enterprise Grade-999999.svg"/>
-  <img src="https://img.shields.io/badge/👌-Production Ready-00ddcc.svg"/>
-  <img src="https://img.shields.io/badge/💎-Modern-44aadd.svg"/>
-  <img src="https://img.shields.io/badge/🦋-Extremely Lightweight-7799cc.svg"/>
-  <img src="https://img.shields.io/badge/🔐-Totally Secure-yellow.svg"/>
-  <img src="https://img.shields.io/badge/🐛-Bug Free-green.svg"/>
-  <img src="https://img.shields.io/badge/🦄-Just Works-cc00cc.svg"/>
 -->
