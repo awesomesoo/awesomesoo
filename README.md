@@ -13,7 +13,8 @@
 
 ### My blog
 <p>
-<span><a href="https://awesome-soo.tistory.com/"><img src="https://img.shields.io/badge/♡-My Blog-ff3a68.svg"/></a></span>
+<span><a href="https://awesome-soo.tistory.com/"><img src="https://img.shields.io/badge/♡-My Blog-ff3a68.svg?"/></a></span>
+<span><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fawesomesoo%2Fhit-counter&count_bg=%23ff9800&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></span>
 </p>
 
 
