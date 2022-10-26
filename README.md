@@ -1,21 +1,37 @@
-### Hi, I'm Soo 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007c96&height=250&section=header&text=AwesomeSoo%20Github&fontSize=70&fontColor=ffffff" />
+</div>
 
-### Skills
-<p>
-<span><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white&logoWidth=18"/></span>
-<span><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white&logoWidth=18"/></span>
-<span><img src="https://img.shields.io/badge/ES6-F7DF1E?style=fla&logo=JavaScript&logoColor=white&logoWidth=18"/></span>
-<span><img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white&logoWidth=18"/></span>
-<span><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white&logoWidth=18"/></span>
-<span><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white&logoWidth=18"/></span>
-</p>
+<div align="center">
+<h3>
+  🛠 tech stack 🛠
+</h3>
+<span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&logoWidth=18"/></span>
+<span><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white&logoWidth=18"/></span>
+<span><img src="https://img.shields.io/badge/ES6-F7DF1E?style=fla-square&logo=JavaScript&logoColor=white&logoWidth=18"/></span>
+<br/>
+<span><img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white&logoWidth=18"/></span>
+<span><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white&logoWidth=18"/></span>
+<span><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white&logoWidth=18"/></span>
+</div>
 
-#### My blog
-<p>
-<span><a href="https://awesome-soo.tistory.com/"><img src="https://img.shields.io/badge/♡-My Blog-ff3a68.svg?"/></a></span>
-</p>
+<div align="center">
+<br/>
+<br/>
+<h3>
+🎨 My blog 🎨
+</h3>
+<span><a href="https://awesome-soo.tistory.com/"><img src="https://img.shields.io/badge/♡-My Blog-ff3a68.svg?style=flat-square"/></a></span>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomesoo&show_icons=true&theme=dracula)
+
+<div align="center">
+<br/>
+<br/>
+<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=awesomesoo&show_icons=true&theme=dracula" />
+</div>
+  
 
 
 
