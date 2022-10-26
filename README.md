@@ -4,7 +4,7 @@
 
 <div align="center">
 <h3>
-  🛠 tech stack 🛠
+  🛠 Tech stack 🛠
 </h3>
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&logoWidth=18"/></span>
 <span><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white&logoWidth=18"/></span>
