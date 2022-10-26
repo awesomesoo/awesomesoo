@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb2c2&height=200&section=header&text=AwesomeSoo%20Github&fontSize=50&fontColor=fff&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb2c2&height=200&section=header&text=AwesomeSoo%20Github&fontSize=50&fontColor=fff&fontAlignY=38" />
 </div>
 
 <div align="center">
-<h3>
-  🛠 Tech stack 🛠
-</h3>
+<h3>🛠 Tech stack 🛠</h3>  
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&logoWidth=18"/></span>
 <span><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white&logoWidth=18"/></span>
 <span><img src="https://img.shields.io/badge/ES6-F7DF1E?style=fla-square&logo=JavaScript&logoColor=white&logoWidth=18"/></span>
@@ -17,6 +15,8 @@
 <span><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white&logoWidth=18"/></span>
 </div>
 
+
+
 <div align="center">
 <br/>
 <br/>
@@ -25,7 +25,6 @@
 </h3>
 <span><a href="https://awesome-soo.tistory.com/"><img src="https://img.shields.io/badge/♡-My%20Blog-ff3a68.svg?style=flat-square"/></a></span>
 </div>
-
 
 <div align="center">
 <br/>
@@ -56,4 +55,14 @@ Here are some ideas to get you started:
 
 ff3a68
 ff9800
+
+
+<div align="center">
+<br/>
+<br/>
+<h3>📚 Interested stack 📚</h3>
+<span><a href="https://awesome-soo.tistory.com/"><img src="https://img.shields.io/badge/♡-My%20Blog-ff3a68.svg?style=flat-square"/></a></span>
+</div>
+
+
 -->
