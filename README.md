@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=13c299&height=200&section=header&text=AwesomeSoo%20Github&fontSize=60&fontColor=ffffff&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb2c2&height=200&section=header&text=AwesomeSoo%20Github&fontSize=60&fontColor=fff&fontAlignY=38" />
 </div>
 
 <div align="center">
@@ -52,4 +52,6 @@ Here are some ideas to get you started:
 
 <span><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fawesomesoo%2Fhit-counter&count_bg=%23ff9800&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></span>
 
+ff3a68
+ff9800
 -->
