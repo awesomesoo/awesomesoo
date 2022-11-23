@@ -23,24 +23,26 @@
 
 
 <div align="center">
-<br/>
-<br/>
-<h3>
-🎨 My Blog 🎨
-</h3>
-<span><a href="https://awesome-soo.tistory.com/"><img src="https://img.shields.io/badge/♡-My%20Blog-ff3a68.svg?style=flat-square"/></a></span>
+  <br/>
+  <br/>
+  <h3>
+  🎨 My Blog 🎨
+  </h3>
+  <span><a href="https://awesome-soo.tistory.com/"><img src="https://img.shields.io/badge/♡-My%20Blog-ff3a68.svg?style=flat-square"/></a></span>
 </div>
 
 <div align="center">
-<br/>
-<br/>
-<br/>
+  <br/>
+  <br/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=awesomesoo&show_icons=true&theme=dracula" />
 </div>
   
+<br/>
 
-
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesomesoo&layout=compact&theme=dracula"/>
+</div>
 
 <!--
 **awesomesoo/awesomesoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
