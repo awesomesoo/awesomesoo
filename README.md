@@ -14,10 +14,13 @@
   <span><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white&logoWidth=18"/></span>
   <br/>
   <span><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white&logoWidth=18"/></span>
-  <!--
-  <h4>Mainly used</h4>
-  <span><img src="https://img.shields.io/badge/MongoDB-61DAFB?style=flat-square&logo=MongoDB&logoColor=white&logoWidth=18"/></span>
--->
+
+  <h4>I've used at least once</h4>
+  <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&logoWidth=18"/></span>
+  <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&logoWidth=18"/></span>
+  <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&logoWidth=18"/></span>
+  <br/>
+  
 </div>
 
 
