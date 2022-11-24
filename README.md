@@ -17,9 +17,11 @@
 
   <h4>I've used at least once</h4>
   <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&logoWidth=18"/></span>
-  <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&logoWidth=18"/></span>
-  <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&logoWidth=18"/></span>
+  <span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white&logoWidth=18"/></span>
   <br/>
+  <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&logoWidth=18"/></span>
+  <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&logoWidth=18"/></span>
+  <span><img src="https://img.shields.io/badge/Koa-33333D?style=flat-square&logo=Koa&logoColor=white&logoWidth=18"/></span>
   
 </div>
 
