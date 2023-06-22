@@ -35,14 +35,14 @@
   </h3>
   <span><a href="https://awesome-soo.tistory.com/"><img src="https://img.shields.io/badge/♡-My%20Blog-ff3a68.svg?style=flat-square"/></a></span>
 </div>
-
+<!--
 <div align="center">
   <br/>
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=awesomesoo&show_icons=true&theme=dracula" />
 </div>
-  
+  -->
 <br/>
 
 <!--
